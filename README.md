@@ -11,3 +11,5 @@ The application is setup to be run via docker compose. We ran the application wi
 - Make sure Docker Desktop is running
 - To run the application simply run the command `docker compose up --build` from the directory that this README is in
 - Visit `localhost:3000` on a browser
+
+![topo-builder](images/example.png)
