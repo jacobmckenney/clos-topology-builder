@@ -1,4 +1,10 @@
 # CLOS TOPOLOGY BUILDER
+A project done for the open ended last lab of CSE 453 (Datacenter Systems). A Clos topology is a datacenter network
+configuration that provides increased resiliency over a standard tree network and many paths between nodes
+which can be used for load balancing via Equal Cost MultiPath routing. This interactive builder is intended to help
+visualize different clos network configurations and show paths between every pair of servers. Parameters that can
+be modified to edit the topology are: switch degree, subscription rate, and number of servers. Project could be expanded
+to simulate netwerk traffic and congestion and to allow flexibility in the number of levels within the topology.
 ### Services
 - Next.js Frontend
     - Interactive UI that allows parametrization of clos topo
